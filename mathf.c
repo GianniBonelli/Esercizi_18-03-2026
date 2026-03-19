@@ -2,7 +2,7 @@
  *  \brief Libreria per file main
  *  \author Gianni Bonelli
  */
-
+#include "mathf.h"
 /*! \brief computes the output value of a polynomial
 	\param coeff coefficients of the polynomial (pointer to) 
 	\param size length of the coeff array 
